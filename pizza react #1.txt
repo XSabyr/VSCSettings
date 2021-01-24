@@ -1,0 +1,11 @@
+source: trycode.pw/c/P0ZNO
+настройка для расширения prettier
+
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.printWidth": 100,
+  "emmet.triggerExpansionOnTab": true,
